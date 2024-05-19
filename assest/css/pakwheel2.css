@@ -1,0 +1,20 @@
+*
+{
+padding: o;
+margin: o;
+width: 90%;
+height: 200px;
+align-items: center;
+justify-content: space-evenly;
+display: flex;
+flex-wrap: wrap;
+background-color: rgb(248, 238, 238);
+}
+section
+{
+    width: 50%;
+    height: 190px;
+border: 1px solid ;
+
+
+}
